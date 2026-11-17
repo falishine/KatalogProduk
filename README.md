@@ -44,13 +44,3 @@ Jika ingin menjalankan melalui Maven, gunakan goal berikut apabila konfigurasi p
 ```bash
 mvn javafx:run
 ```
-
-## Tujuan Project
-
-Project ini dibuat untuk menerapkan konsep pengembangan antarmuka grafis menggunakan JavaFX, termasuk penggunaan FXML, CSS, pengelolaan data produk, serta operasi tambah, tampil, edit, dan hapus data.
-
----
-
-**Project:** Katalog Produk UPI Store  
-**Mata Kuliah:** Pengantar JavaFX GUI – Level 3  
-**Platform:** Desktop Application
