@@ -40,7 +40,7 @@ Berikut merupakan dokumentasi tampilan aplikasi Katalog Produk UPI Store.
 
 ### Halaman Katalog Produk
 
-![Halaman Katalog Produk](screenshots/katalog-produk.png)
+![Halaman Katalog Produk](katalog-produk.png)
 
 ## Cara Menjalankan Aplikasi
 
