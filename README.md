@@ -1,8 +1,3 @@
-# Katalog Produk UPI Store
-
-Aplikasi **Katalog Produk UPI Store** merupakan aplikasi desktop berbasis JavaFX yang dibuat sebagai project untuk memenuhi tugas **Pengantar JavaFX GUI – Level 3**.
-
-Aplikasi ini digunakan untuk menampilkan dan mengelola data produk melalui antarmuka grafis yang sederhana dan mudah digunakan.
 
 ## Fitur Aplikasi
 
@@ -24,15 +19,6 @@ Aplikasi ini digunakan untuk menampilkan dan mengelola data produk melalui antar
 6. **Penyimpanan Data**  
    Menggunakan SQLite sebagai database untuk menyimpan data produk.
 
-## Teknologi yang Digunakan
-
-- Java
-- JavaFX
-- FXML
-- CSS
-- Maven
-- SQLite
-- Apache NetBeans IDE
 
 ## Tampilan Aplikasi
 
