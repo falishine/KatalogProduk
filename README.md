@@ -42,8 +42,6 @@ Berikut merupakan dokumentasi tampilan aplikasi Katalog Produk UPI Store.
 
 ![Halaman Katalog Produk](screenshots/katalog-produk.png)
 
-> Pastikan file screenshot disimpan di dalam folder `screenshots` dengan nama `katalog-produk.png`.
-
 ## Cara Menjalankan Aplikasi
 
 1. Download atau clone repository ini.
